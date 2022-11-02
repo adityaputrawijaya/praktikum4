@@ -61,7 +61,7 @@ else:
 #### Dan saat di runing kita sebut bilangan yang ini kita urutkan 
 #### Lalu hasil dari runing nya seperti gambar berikut:
 
-![Gambar1](gambar/dit2.png)
+![Gambar1](Gambar/dit2.png)
 
 
 ## latihan 3
@@ -87,7 +87,7 @@ if x > y:
 
 #### Maka runingannya akan seperti gambar berikut:
 
-![Gambar1](gambar/dit3.png)
+![Gambar1](Gambar/dit3.png)
 
 
 ## latihan 4
@@ -109,6 +109,6 @@ for i in range(n):
 #### Setelah runing akan diminta masukan nilai n, disini saya memasukan nilai n-nya 12
 #### Dan hasil runningannya akan seperti gambar berikut:
 
-![Gambar1](gambar/dit4.png)
+![Gambar1](Gambar/dit4.png)
 
 
