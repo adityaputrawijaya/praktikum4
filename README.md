@@ -17,7 +17,7 @@ b = int(input('masukan bilangan kedua : '))
 #### Dan saat running kita diminta untuk memasukan bilangan pertama lalu bilangan kedua,      
 lalu hasil runing nya seperti gambar berikut:
 
-![gambar](gambar1/dit1.png)
+![gambar1](gambar/dit11.png)
 
 
 ## latihan 2
@@ -61,7 +61,7 @@ else:
 #### Dan saat di runing kita sebut bilangan yang ini kita urutkan 
 #### Lalu hasil dari runing nya seperti gambar berikut:
 
-![gambar](gambar1/dit2.png)
+![gambar1](gambar/dit2.png)
 
 
 ## latihan 3
@@ -87,7 +87,7 @@ if x > y:
 
 #### Maka runingannya akan seperti gambar berikut:
 
-![gambar](gambar1/dit3.png)
+![gambar1](gambar/dit3.png)
 
 
 ## latihan 4
@@ -109,6 +109,6 @@ for i in range(n):
 #### Setelah runing akan diminta masukan nilai n, disini saya memasukan nilai n-nya 12
 #### Dan hasil runningannya akan seperti gambar berikut:
 
-![gambar](gambar1/dit4.png)
+![gambar1](gambar/dit4.png)
 
 
