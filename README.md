@@ -18,7 +18,6 @@ b = int(input('masukan bilangan kedua : '))
 lalu hasil runing nya seperti gambar berikut:
 
 ![gambar](gambarlab4/rid1.png)
-```
 
 ## latihan 2
 
@@ -62,13 +61,12 @@ else:
 #### Lalu hasil dari runing nya seperti gambar berikut:
 
 ![gambar](gambarlab4/rid2.png)
-```
 
 ## latihan 3
 
 #### Mula-mula kita buat koddinagnnya dulu seperti berikut:
 
-for i in range(0, 10):
+#### for i in range(0, 10):
 
     for j in range(0, 10):
     
@@ -83,18 +81,17 @@ if x > y:
 
     print(x, "y")
     
-print("ini diluar pernyataan if")
+#### print("ini diluar pernyataan if")
 
 #### Maka runingannya akan seperti gambar berikut:
 
 ![gambar](gambarlab4/rid3.png)
-```
 
 ## latihan 4
 
 #### Mula-mula kita buat koddinagnnya dulu seperti berikut:
 
-import random
+##### import random
 
 n = int(input("masukan nilai N : "))
 
