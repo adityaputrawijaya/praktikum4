@@ -19,6 +19,7 @@ lalu hasil runing nya seperti gambar berikut:
 
 ![gambar](gambarlab4/rid1.png)
 
+
 ## latihan 2
 
 #### Mula-mula kita membuat input terlebih dahulu contohnya seperti dibawah ini:
@@ -62,6 +63,7 @@ else:
 
 ![gambar](gambarlab4/rid2.png)
 
+
 ## latihan 3
 
 #### Mula-mula kita buat koddinagnnya dulu seperti berikut:
@@ -87,6 +89,7 @@ if x > y:
 
 ![gambar](gambarlab4/rid3.png)
 
+
 ## latihan 4
 
 #### Mula-mula kita buat koddinagnnya dulu seperti berikut:
@@ -104,7 +107,9 @@ for i in range(n):
     print('sahrul ridwamsyah')
     
 #### Setelah runing akan diminta masukan nilai n, disini saya memasukan nilai n-nya 12
-dan hasil runningannya akan seperti gambar berikut:
+#### Dan hasil runningannya akan seperti gambar berikut:
 
 ![gambar](gambarlab4/rid4.png)
+
+
 
