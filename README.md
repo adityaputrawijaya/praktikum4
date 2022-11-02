@@ -17,7 +17,7 @@ b = int(input('masukan bilangan kedua : '))
 #### Dan saat running kita diminta untuk memasukan bilangan pertama lalu bilangan kedua,      
 lalu hasil runing nya seperti gambar berikut:
 
-![Gambar1](gambar/dit11.png)
+![Gambar1](Gambar/dit11.png)
 
 
 ## latihan 2
