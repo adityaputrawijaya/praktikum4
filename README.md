@@ -124,13 +124,13 @@ If  x > z:
 #### Lalu selanjutnya tambahkan elif, elif sama dengan else yaitu untuk menambah aksi untuk menentukan bahwa x lebih besar dari z dan y lebih besar dari z,
 #### Setelah menjalani codingan sperti penjelasan dan gambar di atas lalu runing
 
-![Gambar1](Gambar/dit6.png)
+![Gambar1](Gambar/dit66.png)
 
 #### Setelah runing masukan bilangan dari yangterbesar hingga terkecil hingga hasil akhirnya menunnjukan bilangan terbesar dari tiga bialangan yg di sebut
 
 ## latihan 6
 
-![Gambar1](Gambar/dit7.png)
+![Gambar1](Gambar/dit6.png)
 
 #### Pertama-tama kita print dan masukan nama kita 
 #### Lalu masukan n, =, dan 1, lalu enter dan masukan a, =, dan 0. jadi keliahatnnya seprti ini:
