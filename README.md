@@ -138,8 +138,7 @@ If  x > z:
 n=1
 a=0
 ```
-#### Fungsinya adalah untuk menentukan nilai terbesar, lalu enter dan tambahkan while n, !, =, 0, dan :. setelah itu enter, nah pas saat enter pastikan tidak
-#### sejajar dengan while, setelah itu tambahkan if n, >, a, dan : enter lalu tambahkan a = n, kemudian enter tambahkan n dan = lalu input ketik masukan bilanagan #### Gunakan (, :, dan " sebagai syntax nya, lalu lanjut enter dan tambahkan if, n, ==, 0, dan : enter dan masukan break tidak sejajar dengan if, enter masukan  #### prinan sperti sbmnya bedanya tambahkan a. jadi keliatannya seperti ini:
+#### Fungsinya adalah untuk menentukan nilai terbesar, lalu enter dan tambahkan while n, !, =, 0, dan :. setelah itu enter, nah pas saat enter pastikan tidak sejajar dengan while, setelah itu tambahkan if n, >, a, dan : enter lalu tambahkan a = n, kemudian enter tambahkan n dan = lalu input ketik masukan bilanagan Gunakan (, :, dan " sebagai syntax nya, lalu lanjut enter dan tambahkan if, n, ==, 0, dan : enter dan masukan break tidak sejajar dengan if, enter masukan prinan sperti sbmnya bedanya tambahkan a. jadi keliatannya seperti ini:
 ```
 while n !=0:
 
@@ -155,7 +154,7 @@ while n !=0:
 
 ![gambar](gambarlab4/rid8.png)
 
-#### Setelah runnuing dari hasil kodingan di atas lalu masukan bilangan terbesar lalu enter dam asukan nilai yang lebih kecila kemudian enter lagi dan akan      #### menentukan nilai terbesarnya.
+#### Setelah runnuing dari hasil kodingan di atas lalu masukan bilangan terbesar lalu enter dam asukan nilai yang lebih kecila kemudian enter lagi dan akan menentukan nilai terbesarnya.
 
 ## latihan 7
 
