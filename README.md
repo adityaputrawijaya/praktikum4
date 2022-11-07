@@ -114,7 +114,7 @@ for i in range(n):
 
 ## latihan 5
 
-![gambar](gambarlab4/rid5.png)
+![Gambar1](Gambar/dit5.png)
 
 #### Jadi masukan x, y, z sebagai inputan untuk memasukan bilangan
 #### Lalu tambahkan if menandakan bahwa x lebih besar dari z lalu tambahkan titik dua 
@@ -124,13 +124,13 @@ If  x > z:
 #### Lalu selanjutnya tambahkan elif, elif sama dengan else yaitu untuk menambah aksi untuk menentukan bahwa x lebih besar dari z dan y lebih besar dari z,
 #### Setelah menjalani codingan sperti penjelasan dan gambar di atas lalu runing
 
-![gambar](gambarlab4/rid6.png)
+![Gambar1](Gambar/dit6.png)
 
 #### Setelah runing masukan bilangan dari yangterbesar hingga terkecil hingga hasil akhirnya menunnjukan bilangan terbesar dari tiga bialangan yg di sebut
 
 ## latihan 6
 
-![gambar](gambarlab4/rid7.png)
+![Gambar1](Gambar/dit7.png)
 
 #### Pertama-tama kita print dan masukan nama kita 
 #### Lalu masukan n, =, dan 1, lalu enter dan masukan a, =, dan 0. jadi keliahatnnya seprti ini:
@@ -152,14 +152,14 @@ while n !=0:
 ```
 #### Fungsinya adalah memasukan niali terbesar.
 
-![gambar](gambarlab4/rid8.png)
+![Gambar1](Gambar/dit7.png)
 
 #### Setelah runnuing dari hasil kodingan di atas lalu masukan bilangan terbesar lalu enter dam asukan nilai yang lebih kecila kemudian enter lagi dan akan menentukan nilai terbesarnya.
 
 ## latihan 7
 
-![gambar](gambarlab4/rid9.png)
+![Gambar1](Gambar/dit8.png)
 
 #### Gunanya menambahkan kodingan sperti diatas adalah untuk menghitung laba dari bulan kesatu hingga ke 8
 
-![gambar](gambarlab4/rid10.png)
+![Gambar1](Gambar/dit9.png)
